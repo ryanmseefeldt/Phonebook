@@ -1,5 +1,5 @@
 //Programmer: Ryan Seefeldt
-//Class: CS& 145 Assignment 2
+//Class: CS& 145 Assignment 2 - Phonebook
 //Date:2/7/2024
 //Purpose: This is the user input program that is used to build the phonebook.
 // If will allow you the following options:
